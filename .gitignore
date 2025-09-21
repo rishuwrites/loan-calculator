@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Except these files
+!.gitignore
+!loan_calculator.py
+!requirements.txt
